@@ -1,23 +1,15 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: Smart Lab
+headless: true
+weight: 10
+title: Smart Lab
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The ShanghaiTech Multi-Agent Systems Research Team (SMART) was started by <a href="http://dengji-zhao.net">Prof. Dengji Zhao</a> in 2017. The team’s research is on algorithmic game theory and multi-agent systems, especially mechanism design and its applications on social networks. The team pioneered and promoted a new trend of mechanism design on social networks, namely how to incentivize the existing participants of a game to invite new participants via their social connections. This new perspective has not been studied in the traditional settings. It is very challenging in theory because the participants are competitors and they would not invite each other by default. Attracting new participants via social networks is also highly demanded in practice, which is essentially what online advertising aims for. For this research challenge, Zhao’s team have made several seminal contributions in auctions, coalitional games and matching with over 15 high-quality publications. Prof. Zhao has also contributed a  at AAMAS 2021 to set up the related research agenda and offered four tutorials. Prof. Zhao was invited to give an Early Career Spotlight talk at IJCAI-ECAI 2022
