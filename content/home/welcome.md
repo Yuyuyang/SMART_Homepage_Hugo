@@ -4,9 +4,9 @@ widget_id: Smart Lab
 headless: true
 weight: 10
 title: Smart Lab
-active: false
+active: true
 design:
-  columns: "1"
+  columns: ""
   css_style: null
   css_class: null
   background:
