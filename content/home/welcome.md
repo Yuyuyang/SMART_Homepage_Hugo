@@ -4,13 +4,14 @@ widget_id: Smart Lab
 headless: true
 weight: 10
 title: Smart Lab
-hero_media: welcome.jpg
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: welcome.jpg
+    image: ""
+hero_media: welcome.jpg
 ---
 
 
